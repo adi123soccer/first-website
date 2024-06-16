@@ -1,5 +1,8 @@
 ---
 title: "About"
 ---
+## About Me
+Hey fellow coder, I'm **Aditya Narayan** from *Acton Boxborough High School*
 
-Aditya Narayan
+
+[Kane's Free Data Science Bootcamp(https://bootcamp.davidkane.info)]
